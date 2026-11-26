@@ -7,7 +7,6 @@
 - 📚 Currently studying IT at Senac Santos
 - 💻 Building practical web projects and learning through hands-on development
 - 🔎 Interested in Software Development and Data
-- 🇧🇷 Based in Brazil
 
 ### Technologies
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
