@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nicolle! 👋
 
-<!--
-**nicolledev/nicolledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT student | Software Development & Data**
 
-Here are some ideas to get you started:
+### About me
+- 🎓 Technical degree in Systems Development from ETEC Aristóteles Ferreira
+- 📚 Currently studying IT at Senac Santos
+- 💻 Building practical web projects and learning through hands-on development
+- 🔎 Interested in Software Development and Data
+- 🇧🇷 Based in Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+### Projects
+- [BiblioTech](https://github.com/nicolledev/BiblioTech) — Library management system
+- [FinTrack](https://github.com/nicolledev/FinTrack) — Personal finance management project
+- **MechaHora** — Salon scheduling web app in progress, using PHP and JavaScript
