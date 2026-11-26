@@ -17,8 +17,3 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-### Projects
-- [BiblioTech](https://github.com/nicolledev/BiblioTech) — Library management system
-- [FinTrack](https://github.com/nicolledev/FinTrack) — Personal finance management project
-- **MechaHora** — Salon scheduling web app in progress, using PHP and JavaScript
