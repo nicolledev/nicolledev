@@ -16,3 +16,5 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+My journey in technology began at ETEC, where I started out believing that technology could help change the world. The path hasn’t always been easy: I faced challenges, and some people doubted me. Still, I didn’t give up. This year, I decided to focus more on my professional goals and began another technical program in IT at Senac. I’m continuing to learn, grow, and build my future in tech, one project at a time.
