@@ -1,6 +1,6 @@
 # Hi, I'm Nicolle! 👋
 
-**IT student | Software Development & Data**
+![Header do perfil](./Header GitHub de Nicolle A. Silva (1).png)
 
 ### About me
 - 🎓 Technical degree in Systems Development from ETEC Aristóteles Ferreira
